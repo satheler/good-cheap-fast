@@ -1,20 +1,20 @@
 # The choice is yours
 
-- [x] Adicionar lógica
-  - [x] Manter os 2 últimos selecionados
-- [ ] Adicionar Tema
-  - [ ] Pegar o tema do dispositivo por padrão
+- [x] Add logic
+  - [x] Keep the last 2 selected
+- [ ] Add Theme
+  - [ ] Get device theme by default
   - [x] Light
   - [ ] Dark
-- [x] Adicionar internacionalização
-  - [x] Pegar o idioma do dispositivo por padrão
-  - [x] Título da página
-  - [x] Todas as escritas
-- [ ] Ajustar o header da página
-- [ ] Salvar as preferências
-  - [ ] Idioma
-  - [ ] Tema
-- [ ] Manter o texto centralizado mesmo quando traduzir
-- [ ] Se a tela for igual ao dispositivo móvel (inclui tablet), abrir o seletor do sistema operacional ao invés do balão.
-- [ ] Revisar todas as acessibilidades do site
-- [ ] Adicionar *Golden Test*
+- [x] Add internationalization
+  - [x] Get device language by default
+  - [x] Page title
+  - [x] All writings
+- [ ] Adjust page header
+- [ ] Save preferences
+  - [ ] Language
+  - [ ] Theme
+- [ ] Keep text centered even when translating
+- [ ] If the screen is the same as the mobile device (includes tablet), open the OS selector instead of the balloon.
+- [ ] Review all site accessibility
+- [ ] Add *Golden Test*
